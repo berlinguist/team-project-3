@@ -8,7 +8,7 @@
 
 # !!! You may need to run in your Shell: pip install pandas !!!
 # This line is written by Max AND SEBASTIAN
-# Intentionally cause a merge conflict
+# This is a merge conflict that is resolved
 import os
 import pandas
 import re
